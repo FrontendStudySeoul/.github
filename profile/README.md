@@ -113,7 +113,11 @@
     <tr>
       <td rowspan="6">2023.5.14 (일)~ 2023.7.2 (일) -끝-</td>
       <td rowspan="6">
-        <strong>파트 1<br />이펙티브 타입스크립트</strong>
+        <strong>
+          <a href="https://github.com/FrontendStudySeoul/TypeScript">
+            파트 1<br />이펙티브 타입스크립트
+          </a>
+        </strong>
       </td>
     </tr>
   </tbody>
