@@ -1,4 +1,4 @@
-![image](https://github.com/FrontendStudySeoul/.github/assets/103626175/d50a32ae-d086-49ba-8b2a-0b5c3d7f840c)![image](https://github.com/FrontendStudySeoul/.github/assets/103626175/3a7154e3-8c2b-432a-a429-ffeec9fed265)![image](https://github.com/FrontendStudySeoul/.github/assets/103626175/c433f55c-b7c7-4015-a592-fd44be0c92dc)# ✌️ Seoul Frontend Study
+# ✌️ Seoul Frontend Study
 프론트엔드 스터디를 진행하면서 읽은 책들을 기록하고 정리하는 repository입니다.   
 
 ## 💻 스터디를 진행한 책 목록
