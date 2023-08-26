@@ -1,13 +1,16 @@
 # ✌️ Seoul Frontend Study
-프론트엔드 스터디를 진행하면서 읽은 책들을 기록하고 정리하는 repository입니다.   
+프론트엔드 스터디를 진행하면서 읽은 책들을 기록하고 정리하는 repository입니다.   <br>
+현재 3회차까지 진행했습니다.
 
 ## 💻 스터디를 진행한 책 목록
 #### 기간 내에 정해진 분량의 책을 읽고 스터디를 진행합니다.
 
-|[Effective Typescript](https://github.com/saseungmin/reading_books_record_repository/tree/master/summarize_books_in_markdown/%ED%95%A8%EC%88%98%ED%98%95%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8)|
-|:---:|
-|<a href="https://github.com/saseungmin/reading_books_record_repository/tree/master/summarize_books_in_markdown/%ED%95%A8%EC%88%98%ED%98%95%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8">![image](https://github.com/FrontendStudySeoul/.github/assets/103626175/ffd6e71c-fb7f-48b6-b3e9-afc63a32fb9b)
-</a>|
+| [Effective Typescript](https://github.com/saseungmin/reading_books_record_repository/tree/master/summarize_books_in_markdown/%ED%95%A8%EC%88%98...) | [리팩터링 2판](https://www.yes24.com/Product/Goods/89649360) | [쏙쏙 들어오는 함수형 코딩](https://www.yes24.com/Product/Goods/108748841) |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|     <a href="https://github.com/saseungmin/reading_books_record_repository/tree/master/summarize_books_in_markdown/%ED95%A8...">![image](https://github.com/FrontendStudySeoul/.github/assets/103626175/ffd6e71c-fb7f-48b6-b3e9-afc63a32fb9b)</a>      |     <a href="https://www.yes24.com/Product/Goods/89649360"><img src="https://image.yes24.com/goods/89649360/XL" alt="image" width="180" height="213"></a>     |     <a href="https://www.yes24.com/Product/Goods/108748841"><img src="https://image.yes24.com/goods/108748841/XL" alt="image" width="180" height="213"></a>    |
+
+
+
 
 ## 목차
 
@@ -168,6 +171,74 @@
   </tr>
 </table>
 
+### 3. 쏙쏙 들어오는 함수형 코딩
+<table>
+  <tr>
+    <td align="center" width="92px">
+      <a href="https://github.com/endmoseung" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/103626175?v=4" alt="모승 프로필" />
+      </a>
+    </td>
+    <td align="center" width="92px">
+      <a href="https://github.com/Woogie-94" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/59603529?v=4" alt="하디 프로필" />
+      </a>
+    </td>
+<!--     <td align="center" width="92px">
+      <a href="https://github.com/dohun31" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/65100540?v=4" alt="호둔 프로필" />
+      </a>
+    </td> -->
+    <td align="center" width="92px">
+      <a href="https://github.com/dmswl98" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/76807107?v=4" alt="제리 프로필" />
+      </a>
+    </td>
+     <td align="center" width="92px">
+      <a href="https://github.com/minkyung00" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/80238096?v=4" alt="담곰 프로필" />
+      </a>
+    </td>
+    <td align="center" width="92px">
+      <a href="https://github.com/kingyong9169" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/62797441?v=4" alt="브루니 프로필" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/endmoseung" target="_blank">
+        모승
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Woogie-94" target="_blank">
+        하디
+      </a>
+    </td>
+<!--     <td align="center">
+      <a href="https://github.com/dohun31" target="_blank">
+        호둔
+      </a>
+    </td> -->
+    <td align="center">
+      <a href="https://github.com/dmswl98" target="_blank">
+        제리
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/minkyung00" target="_blank">
+        담곰
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/kingyong9169" target="_blank">
+        브루니
+      </a>
+    </td>
+  </tr>
+</table>
+
 <div id="3"></div>
 
 ## 스터디 룰
@@ -219,6 +290,28 @@
         <strong>
           <a href="https://github.com/FrontendStudySeoul/RefactoringV2">
             파트 1<br />리팩토링 2판
+          </a>
+        </strong>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### 3. 쏙쏙 들어오는 함수형 코딩
+<table>
+  <thead>
+    <tr>
+      <th>날짜</th>
+      <th>파트</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="6">2023.9.2 (일)~ </td>
+      <td rowspan="6">
+        <strong>
+          <a href="https://github.com/FrontendStudySeoul/SsogSsogFunctionalCoding">
+            파트 1<br />쏙쏙 들어오는 함수형 코딩
           </a>
         </strong>
       </td>
