@@ -204,6 +204,16 @@
         <img src="https://avatars.githubusercontent.com/u/62797441?v=4" alt="브루니 프로필" />
       </a>
     </td>
+    <td align="center" width="92px">
+      <a href="https://github.com/ocipap" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/25482071?v=4" alt="빠삐코 프로필" />
+      </a>
+    </td>
+    <td align="center" width="92px">
+      <a href="https://github.com/kimnamsun" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/66931791?v=4" alt="아일라 프로필" />
+      </a>
+    </td>
   </tr>
   <tr>
     <td align="center">
@@ -234,6 +244,16 @@
     <td align="center">
       <a href="https://github.com/kingyong9169" target="_blank">
         브루니
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ocipap" target="_blank">
+        빠삐코
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/kimnamsun" target="_blank">
+        아일라
       </a>
     </td>
   </tr>
