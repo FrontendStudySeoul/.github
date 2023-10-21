@@ -11,7 +11,8 @@
 
 | [프레임워크 없는 프론트엔드 개발](https://www.yes24.com/Product/Goods/96639825?pid=123487&cosemkid=go16118954908844637&gad_source=1&gclid=CjwKCAjwvrOpBhBdEiwAR58-3FSPugndwbc9v_saJe3gzc4H022dhAA65zM-dCzlGGojlfJttdmWQhoCllcQAvD_BwE) |
 | :----------------------------------------------------------: |
-| <a href="https://github.com/FrontendStudySeoul/FrontEndDevelopNoFramework">![image](https://image.yes24.com/goods/96639825/XL)</a> |
+| <a href="https://github.com/FrontendStudySeoul/FrontEndDevelopNoFramework">![image](https://github.com/FrontendStudySeoul/.github/assets/103626175/73f2efa1-0ebb-468d-a91e-ae6baee1e2c9)
+</a> |
 
 
 
