@@ -9,10 +9,9 @@
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |     <a href="https://github.com/saseungmin/reading_books_record_repository/tree/master/summarize_books_in_markdown/%ED95%A8...">![image](https://github.com/FrontendStudySeoul/.github/assets/103626175/ffd6e71c-fb7f-48b6-b3e9-afc63a32fb9b)</a>      |     <a href="https://www.yes24.com/Product/Goods/89649360"><img src="https://image.yes24.com/goods/89649360/XL" alt="image" width="180" height="213"></a>     |     <a href="https://www.yes24.com/Product/Goods/108748841"><img src="https://image.yes24.com/goods/108748841/XL" alt="image" width="180" height="213"></a>    |
 
-| [프레임워크 없는 프론트엔드 개발](https://www.yes24.com/Product/Goods/96639825?pid=123487&cosemkid=go16118954908844637&gad_source=1&gclid=CjwKCAjwvrOpBhBdEiwAR58-3FSPugndwbc9v_saJe3gzc4H022dhAA65zM-dCzlGGojlfJttdmWQhoCllcQAvD_BwE) |
-| :----------------------------------------------------------: |
-| <a href="https://github.com/FrontendStudySeoul/FrontEndDevelopNoFramework">![image](https://github.com/FrontendStudySeoul/.github/assets/103626175/73f2efa1-0ebb-468d-a91e-ae6baee1e2c9)
-</a> |
+| [프레임워크 없는 프론트엔드 개발](https://www.yes24.com/Product/Goods/96639825?pid=123487&cosemkid=go16118954908844637&gad_source=1&gclid=CjwKCAjwvrOpBhBdEiwAR58-3FSPugndwbc9v_saJe3gzc4H022dhAA65zM-dCzlGGojlfJttdmWQhoCllcQAvD_BwE) | [우아한 타입스크립트 with React](https://product.kyobobook.co.kr/detail/S000210716282) |
+| :----------------------------------------------------------: |:----------------------------------------------------------: |
+|    ![image](https://github.com/FrontendStudySeoul/.github/assets/103626175/73f2efa1-0ebb-468d-a91e-ae6baee1e2c9)   | <a href="https://product.kyobobook.co.kr/detail/S000210716282"><img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791169211567.jpg" alt="image" width="180" height="213"></a>     |
 
 
 
@@ -270,6 +269,96 @@
 <div id="3"></div>
 
 ### 4. 프레임워크 없는 프론트엔드 개발
+<table>
+  <tr>
+    <td align="center" width="92px">
+      <a href="https://github.com/endmoseung" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/103626175?v=4" alt="모승 프로필" />
+      </a>
+    </td>
+    <td align="center" width="92px">
+      <a href="https://github.com/Woogie-94" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/59603529?v=4" alt="하디 프로필" />
+      </a>
+    </td>
+<!--     <td align="center" width="92px">
+      <a href="https://github.com/dohun31" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/65100540?v=4" alt="호둔 프로필" />
+      </a>
+    </td> -->
+    <td align="center" width="92px">
+      <a href="https://github.com/dmswl98" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/76807107?v=4" alt="제리 프로필" />
+      </a>
+    </td>
+     <td align="center" width="92px">
+      <a href="https://github.com/minkyung00" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/80238096?v=4" alt="담곰 프로필" />
+      </a>
+    </td>
+    <td align="center" width="92px">
+      <a href="https://github.com/kingyong9169" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/62797441?v=4" alt="브루니 프로필" />
+      </a>
+    </td>
+    <td align="center" width="92px">
+      <a href="https://github.com/ocipap" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/25482071?v=4" alt="빠삐코 프로필" />
+      </a>
+    </td>
+    <td align="center" width="92px">
+      <a href="https://github.com/kimnamsun" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/66931791?v=4" alt="아일라 프로필" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/endmoseung" target="_blank">
+        모승
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Woogie-94" target="_blank">
+        하디
+      </a>
+    </td>
+<!--     <td align="center">
+      <a href="https://github.com/dohun31" target="_blank">
+        호둔
+      </a>
+    </td> -->
+    <td align="center">
+      <a href="https://github.com/dmswl98" target="_blank">
+        제리
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/minkyung00" target="_blank">
+        담곰
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/kingyong9169" target="_blank">
+        브루니
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ocipap" target="_blank">
+        빠삐코
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/kimnamsun" target="_blank">
+        아일라
+      </a>
+    </td>
+  </tr>
+</table>
+
+<div id="3"></div>
+
+### 5. 우아한 타입스크립트 with React
 <table>
   <tr>
     <td align="center" width="92px">
