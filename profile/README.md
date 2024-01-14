@@ -371,14 +371,14 @@
         <img src="https://avatars.githubusercontent.com/u/59603529?v=4" alt="하디 프로필" />
       </a>
     </td>
-<!--     <td align="center" width="92px">
-      <a href="https://github.com/dohun31" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/65100540?v=4" alt="호둔 프로필" />
+   <td align="center" width="92px">
+      <a href="https://github.com/Hayeong8957" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/70371342?v=4" alt="쥬디 프로필" />
       </a>
-    </td> -->
+    </td>
     <td align="center" width="92px">
-      <a href="https://github.com/dmswl98" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/76807107?v=4" alt="제리 프로필" />
+      <a href="https://github.com/Tap-Kim" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/93532696?v=4" alt="탭 프로필" />
       </a>
     </td>
      <td align="center" width="92px">
@@ -387,13 +387,8 @@
       </a>
     </td>
     <td align="center" width="92px">
-      <a href="https://github.com/kingyong9169" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/62797441?v=4" alt="브루니 프로필" />
-      </a>
-    </td>
-    <td align="center" width="92px">
-      <a href="https://github.com/ocipap" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/25482071?v=4" alt="빠삐코 프로필" />
+      <a href="https://github.com/realhee" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/25587196?v=4" alt="초히 프로필" />
       </a>
     </td>
     <td align="center" width="92px">
@@ -413,14 +408,14 @@
         하디
       </a>
     </td>
-<!--     <td align="center">
-      <a href="https://github.com/dohun31" target="_blank">
-        호둔
-      </a>
-    </td> -->
     <td align="center">
-      <a href="https://github.com/dmswl98" target="_blank">
-        제리
+      <a href="https://github.com/Hayeong8957" target="_blank">
+        쥬디
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Tap-Kim" target="_blank">
+        탭
       </a>
     </td>
     <td align="center">
@@ -429,13 +424,8 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/kingyong9169" target="_blank">
-        브루니
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/ocipap" target="_blank">
-        빠삐코
+      <a href="https://github.com/realhee" target="_blank">
+        초히
       </a>
     </td>
     <td align="center">
@@ -545,6 +535,31 @@
         <strong>
           <a href="https://www.yes24.com/Product/Goods/96639825?pid=123487&cosemkid=go16118954908844637&gad_source=1&gclid=CjwKCAjwvrOpBhBdEiwAR58-3FSPugndwbc9v_saJe3gzc4H022dhAA65zM-dCzlGGojlfJttdmWQhoCllcQAvD_BwE">
             파트 1<br />프레임워크 없는 프론트엔드 개발
+          </a>
+        </strong>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br />
+<br />
+
+### 5. 우아한 타입스크립트 with React
+<table>
+  <thead>
+    <tr>
+      <th>날짜</th>
+      <th>파트</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="6">2024.1.14 (일)~  </td>
+      <td rowspan="6">
+        <strong>
+          <a href="https://product.kyobobook.co.kr/detail/S000210716282">
+            우아한 타입스크립트 with React
           </a>
         </strong>
       </td>
