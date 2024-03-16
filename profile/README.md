@@ -9,9 +9,9 @@
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |     <a href="https://github.com/saseungmin/reading_books_record_repository/tree/master/summarize_books_in_markdown/%ED95%A8...">![image](https://github.com/FrontendStudySeoul/.github/assets/103626175/ffd6e71c-fb7f-48b6-b3e9-afc63a32fb9b)</a>      |     <a href="https://www.yes24.com/Product/Goods/89649360"><img src="https://image.yes24.com/goods/89649360/XL" alt="image" width="180" height="213"></a>     |     <a href="https://www.yes24.com/Product/Goods/108748841"><img src="https://image.yes24.com/goods/108748841/XL" alt="image" width="180" height="213"></a>    |
 
-| [프레임워크 없는 프론트엔드 개발](https://www.yes24.com/Product/Goods/96639825?pid=123487&cosemkid=go16118954908844637&gad_source=1&gclid=CjwKCAjwvrOpBhBdEiwAR58-3FSPugndwbc9v_saJe3gzc4H022dhAA65zM-dCzlGGojlfJttdmWQhoCllcQAvD_BwE) | [우아한 타입스크립트 with React](https://product.kyobobook.co.kr/detail/S000210716282) |
-| :----------------------------------------------------------: |:----------------------------------------------------------: |
-|    ![image](https://github.com/FrontendStudySeoul/.github/assets/103626175/73f2efa1-0ebb-468d-a91e-ae6baee1e2c9)   | <a href="https://product.kyobobook.co.kr/detail/S000210716282"><img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791169211567.jpg" alt="image" width="180" height="213"></a>     |
+| [프레임워크 없는 프론트엔드 개발](https://www.yes24.com/Product/Goods/96639825?pid=123487&cosemkid=go16118954908844637&gad_source=1&gclid=CjwKCAjwvrOpBhBdEiwAR58-3FSPugndwbc9v_saJe3gzc4H022dhAA65zM-dCzlGGojlfJttdmWQhoCllcQAvD_BwE) | [우아한 타입스크립트 with React](https://product.kyobobook.co.kr/detail/S000210716282) | [클린 아키텍쳐](https://ebook.insightbook.co.kr/book/69) |
+| :----------------------------------------------------------: |:----------------------------------------------------------: | :----------------------------------------------------------: |
+|    ![image](https://github.com/FrontendStudySeoul/.github/assets/103626175/73f2efa1-0ebb-468d-a91e-ae6baee1e2c9)   | <a href="https://product.kyobobook.co.kr/detail/S000210716282"><img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791169211567.jpg" alt="image" width="180" height="213"></a>     |  <a href="https://ebook.insightbook.co.kr/book/69"><img src="https://ebook.insightbook.co.kr/media/cover/generated/69_600.webp?v=20220608024903" alt="image" width="180" height="213"></a>     |
 
 
 
@@ -358,7 +358,7 @@
 
 <div id="3"></div>
 
-### 5. 우아한 타입스크립트 with React
+### 6. 클린 아키텍쳐
 <table>
   <tr>
     <td align="center" width="92px">
@@ -435,8 +435,6 @@
     </td>
   </tr>
 </table>
-
-<div id="3"></div>
 
 
 ## 스터디 룰
