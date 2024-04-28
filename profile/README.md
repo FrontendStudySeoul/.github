@@ -366,11 +366,6 @@
         <img src="https://avatars.githubusercontent.com/u/103626175?v=4" alt="모승 프로필" />
       </a>
     </td>
-    <td align="center" width="92px">
-      <a href="https://github.com/Woogie-94" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/59603529?v=4" alt="하디 프로필" />
-      </a>
-    </td>
    <td align="center" width="92px">
       <a href="https://github.com/Hayeong8957" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/70371342?v=4" alt="쥬디 프로필" />
@@ -382,8 +377,8 @@
       </a>
     </td>
      <td align="center" width="92px">
-      <a href="https://github.com/minkyung00" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/80238096?v=4" alt="담곰 프로필" />
+      <a href="https://github.com/KaniKim" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/80238096?v=4" alt="카니 프로필" />
       </a>
     </td>
     <td align="center" width="92px">
@@ -392,8 +387,13 @@
       </a>
     </td>
     <td align="center" width="92px">
-      <a href="https://github.com/kimnamsun" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/66931791?v=4" alt="아일라 프로필" />
+      <a href="https://github.com/hwangyena" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/66931791?v=4" alt="쿼카 프로필" />
+      </a>
+    </td>
+    <td align="center" width="92px">
+      <a href="https://github.com/juyi212" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/66931791?v=4" alt="아리 프로필" />
       </a>
     </td>
   </tr>
@@ -401,11 +401,6 @@
     <td align="center">
       <a href="https://github.com/endmoseung" target="_blank">
         모승
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Woogie-94" target="_blank">
-        하디
       </a>
     </td>
     <td align="center">
@@ -419,8 +414,8 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/minkyung00" target="_blank">
-        담곰
+      <a href="https://github.com/KaniKim" target="_blank">
+        카니
       </a>
     </td>
     <td align="center">
@@ -429,8 +424,13 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/kimnamsun" target="_blank">
-        아일라
+      <a href="https://github.com/hwangyena" target="_blank">
+        쿼카
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/juyi212" target="_blank">
+        아리
       </a>
     </td>
   </tr>
@@ -558,6 +558,28 @@
         <strong>
           <a href="https://product.kyobobook.co.kr/detail/S000210716282">
             우아한 타입스크립트 with React
+          </a>
+        </strong>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### 6. 클린 아키텍처
+<table>
+  <thead>
+    <tr>
+      <th>날짜</th>
+      <th>파트</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="6">2024.3.24 (일)~  </td>
+      <td rowspan="6">
+        <strong>
+          <a href="https://product.kyobobook.co.kr/detail/S000210716282](https://ebook.insightbook.co.kr/book/69">
+            클린 아키텍처
           </a>
         </strong>
       </td>
