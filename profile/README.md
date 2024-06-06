@@ -413,23 +413,23 @@
       </a>
     </td>
     <td align="center">
+      <a href="https://github.com/kingyong9169" target="_blank">
+        브루니
+      </a>
+    </td>
+    <td align="center">
       <a href="https://github.com/realhee" target="_blank">
         초히
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/kimnamsun" target="_blank">
-        아일라
-      </a>
-    </td>
-     <td align="center">
       <a href="https://github.com/Woogie-94" target="_blank">
         하디
       </a>
     </td>
-        <td align="center">
-      <a href="https://github.com/kingyong9169" target="_blank">
-        브루니
+    <td align="center">
+      <a href="https://github.com/kimnamsun" target="_blank">
+        아일라
       </a>
     </td>
   </tr>
