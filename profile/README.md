@@ -358,6 +358,96 @@
 
 <div id="3"></div>
 
+### 5. 우아한 타입스크립트 with React
+<table>
+  <tr>
+    <td align="center" width="92px">
+      <a href="https://github.com/endmoseung" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/103626175?v=4" alt="모승 프로필" />
+      </a>
+    </td>
+    <td align="center" width="92px">
+      <a href="https://github.com/Woogie-94" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/59603529?v=4" alt="하디 프로필" />
+      </a>
+    </td>
+<!--     <td align="center" width="92px">
+      <a href="https://github.com/dohun31" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/65100540?v=4" alt="호둔 프로필" />
+      </a>
+    </td> -->
+    <td align="center" width="92px">
+      <a href="https://github.com/dmswl98" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/76807107?v=4" alt="제리 프로필" />
+      </a>
+    </td>
+     <td align="center" width="92px">
+      <a href="https://github.com/minkyung00" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/80238096?v=4" alt="담곰 프로필" />
+      </a>
+    </td>
+    <td align="center" width="92px">
+      <a href="https://github.com/kingyong9169" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/62797441?v=4" alt="브루니 프로필" />
+      </a>
+    </td>
+    <td align="center" width="92px">
+      <a href="https://github.com/ocipap" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/25482071?v=4" alt="빠삐코 프로필" />
+      </a>
+    </td>
+    <td align="center" width="92px">
+      <a href="https://github.com/kimnamsun" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/66931791?v=4" alt="아일라 프로필" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/endmoseung" target="_blank">
+        모승
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Woogie-94" target="_blank">
+        하디
+      </a>
+    </td>
+<!--     <td align="center">
+      <a href="https://github.com/dohun31" target="_blank">
+        호둔
+      </a>
+    </td> -->
+    <td align="center">
+      <a href="https://github.com/dmswl98" target="_blank">
+        제리
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/minkyung00" target="_blank">
+        담곰
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/kingyong9169" target="_blank">
+        브루니
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ocipap" target="_blank">
+        빠삐코
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/kimnamsun" target="_blank">
+        아일라
+      </a>
+    </td>
+  </tr>
+</table>
+
+<div id="3"></div>
+
 ### 6. 클린 아키텍쳐
 <table>
   <tr>
