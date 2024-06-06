@@ -456,7 +456,7 @@
     </td>
      <td align="center" width="92px">
       <a href="https://github.com/KaniKim" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/80238096?v=4" alt="카니 프로필" />
+        <img src="https://avatars.githubusercontent.com/u/19832624?v=4" alt="카니 프로필" />
       </a>
     </td>
     <td align="center" width="92px">
@@ -466,12 +466,12 @@
     </td>
     <td align="center" width="92px">
       <a href="https://github.com/hwangyena" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/66931791?v=4" alt="쿼카 프로필" />
+        <img src="https://avatars.githubusercontent.com/u/70925962?v=4" alt="쿼카 프로필" />
       </a>
     </td>
     <td align="center" width="92px">
       <a href="https://github.com/juyi212" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/66931791?v=4" alt="아리 프로필" />
+        <img src="https://avatars.githubusercontent.com/u/57897408?v=4" alt="아리 프로필" />
       </a>
     </td>
   </tr>
