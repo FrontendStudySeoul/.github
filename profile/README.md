@@ -15,6 +15,11 @@
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                             ![image](https://github.com/FrontendStudySeoul/.github/assets/103626175/73f2efa1-0ebb-468d-a91e-ae6baee1e2c9)                                                              | <a href="https://product.kyobobook.co.kr/detail/S000210716282"><img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791169211567.jpg" alt="image" width="180" height="213"></a> | <a href="https://ebook.insightbook.co.kr/book/69"><img src="https://ebook.insightbook.co.kr/media/cover/generated/69_600.webp?v=20220608024903" alt="image" width="180" height="213"></a> |
 
+| [코어 자바스크립트](https://product.kyobobook.co.kr/detail/S000001766397) |                                                   [우아한 타입스크립트 with React](https://product.kyobobook.co.kr/detail/S000210716282)                                                    |                                                                 [클린 아키텍쳐](https://ebook.insightbook.co.kr/book/69)                                                                  |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                             <a href="https://product.kyobobook.co.kr/detail/S000001766397"><img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791158391720.jpg" alt="image" width="180" height="213"></a>
+                                                           | <a href="https://product.kyobobook.co.kr/detail/S000210716282"><img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791169211567.jpg" alt="image" width="180" height="213"></a> | <a href="https://ebook.insightbook.co.kr/book/69"><img src="https://ebook.insightbook.co.kr/media/cover/generated/69_600.webp?v=20220608024903" alt="image" width="180" height="213"></a> |
+
 ## 목차
 
 1. [스터디 소개](#1)
@@ -514,6 +519,85 @@
   </tr>
 </table>
 
+### 7. 코어 자바스크립트
+
+<table>
+  <tr>
+    <td align="center" width="92px">
+      <a href="https://github.com/endmoseung" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/103626175?v=4" alt="모승 프로필" />
+      </a>
+    </td>
+   <td align="center" width="92px">
+      <a href="https://github.com/Hayeong8957" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/70371342?v=4" alt="쥬디 프로필" />
+      </a>
+    </td>
+    <td align="center" width="92px">
+      <a href="https://github.com/Tap-Kim" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/93532696?v=4" alt="탭 프로필" />
+      </a>
+    </td>
+     <td align="center" width="92px">
+      <a href="https://github.com/KaniKim" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/19832624?v=4" alt="카니 프로필" />
+      </a>
+    </td>
+    <td align="center" width="92px">
+      <a href="https://github.com/realhee" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/25587196?v=4" alt="초히 프로필" />
+      </a>
+    </td>
+    <td align="center" width="92px">
+      <a href="https://github.com/hwangyena" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/70925962?v=4" alt="쿼카 프로필" />
+      </a>
+    </td>
+    <td align="center" width="92px">
+      <a href="https://github.com/juyi212" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/57897408?v=4" alt="아리 프로필" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/endmoseung" target="_blank">
+        모승
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Hayeong8957" target="_blank">
+        쥬디
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Tap-Kim" target="_blank">
+        탭
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/KaniKim" target="_blank">
+        카니
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/realhee" target="_blank">
+        초히
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/hwangyena" target="_blank">
+        쿼카
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/juyi212" target="_blank">
+        아리
+      </a>
+    </td>
+  </tr>
+</table>
+
 ## 스터디 룰
 
 - 호칭은 닉네임으로 부르고 님짜는 제외하고 요자 어미로 부탁드릴게요!(ex : 모승 이번에 제네릭에 대해서~~ 생각하는데 어떻게 생각하세요?, 모승 이번에 진행하는 챕터는 2장이 맞을까요?) 이부분은 서로 친밀하게 얘기하기 위해서이니 꼭 부탁드릴게요:) 그리고 스터디 시작하기전에 자신이 불릴 닉네임 하나 정해주시면 감사하겠습니다!
@@ -596,10 +680,6 @@
     </tr>
   </tbody>
 </table>
-
-<br />
-<br />
-
 ### 4. 프레임워크 없는 프론트엔드 개발
 
 <table>
@@ -622,10 +702,6 @@
     </tr>
   </tbody>
 </table>
-
-<br />
-<br />
-
 ### 5. 우아한 타입스크립트 with React
 
 <table>
@@ -665,6 +741,29 @@
         <strong>
           <a href="https://product.kyobobook.co.kr/detail/S000210716282](https://ebook.insightbook.co.kr/book/69">
             클린 아키텍처
+          </a>
+        </strong>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### 7. 코어 자바스크립트
+
+<table>
+  <thead>
+    <tr>
+      <th>날짜</th>
+      <th>파트</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="6">2024.6.12 (수)~  </td>
+      <td rowspan="6">
+        <strong>
+          <a href="https://product.kyobobook.co.kr/detail/S000001766397">
+            코어 자바스크립트
           </a>
         </strong>
       </td>
